@@ -5,13 +5,13 @@
 
 <table width="100%" border="0" bordercolor="0" cellpadding="0" cellspacing="0">
   <tr border="0" bordercolor="0">
-    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" height="150" width="400" src="1.jpg"/></div></td>
+    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" src="1.jpg" style="width: 420px; height: auto;"/></div></td>
     <td valign="bottom" border="0" bordercolor="0"><b>Бєляєва Тетяна Юріївна</b>
     <br>
 <i>Викладач англійської і німецької мови, модератор з англійської мови</i></td>
   </tr>
   <tr border="0" bordercolor="0">
-    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" height="150" width="400" src="7.jpg"/></div></td>
+    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" src="7.jpg" style="width: 420px; height: auto;"/></div></td>
     <td valign="bottom" border="0" bordercolor="0"><b>Харченко Наталія Іванівна</b>
     <br>
 <i>Заступник директора з навчально-виховної роботи, вчитель англійської мови, модератор з англійської мови</i></td>
