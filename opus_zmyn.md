@@ -30,19 +30,19 @@
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція говоріння</td>
+Мовленнєва компетентність говоріння</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг висловлювання 3-4 речення/репліки (<i><b>скорочено</b></i>  до 2-3 речень/реплік)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція читання</td>
+Мовленнєва компетентність читання</td>
     <td width="50%" style="vertical-align:top !important;">
 Читати про себе та вголос і розуміти слова, словосполучення, речення, тексти, що містять мовний матеріал, засвоєний в усному мовленні. Обсяг — 100-150 друкованих знаків <i><b>(вилучено)</b></i>. </td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція письмо</td>
+Мовленнєва компетентність письмо</td>
     <td width="50%" style="vertical-align:top !important;">
 За зразком відтворювати графічний образ букв, слів, словосполучень, речень; описати себе, своїх друзів, батьків; описати предмет шкільного вжитку, іграшку, тварину, погоду. Обсяг письмового повідомлення — 4-5 речень <i><b>(вилучено)</b></i>.</td>
   </tr>
@@ -64,25 +64,25 @@
 Тема «Шкільне приладдя» <i><b>(вилучено)</b></i></td>
   </tr>
   <tr>
-    <td width="50%" style="vertical-align:top !important;">Лінгвістична граматична компетенція</td>
+    <td width="50%" style="vertical-align:top !important;">Лінгвістична Граматична компетенція компетенція</td>
     <td width="50%" style="vertical-align:top !important;">
 Past Simple (<b><i>перенесено</i></b> до 3 класу)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція говоріння</td>
+Мовленнєва компетентність говоріння</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг висловлювання 5-6 речень/реплік  (<i><b>скорочено</b></i>  до 4-5 речень/реплік)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція читання</td>
+Мовленнєва компетентність читання</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг — 200-250 друкованих знаків.  (<i><b>скорочено</b></i>  до 150-200)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція письмо</td>
+Мовленнєва компетентність письмо</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг письмового повідомлення  5-6 речень  (<i><b>скорочено</b></i> до 4-5 речень)</td>
   </tr>
@@ -94,25 +94,25 @@ Past Simple (<b><i>перенесено</i></b> до 3 класу)</td>
   </tr>
     <tr>
     <td width="50%" style="vertical-align:top !important;">
-Лінгвістична граматична компетенція</td>
+Лінгвістична Граматична компетенція компетенція</td>
     <td width="50%" style="vertical-align:top !important;">
 Present Perfect (<i><b>перенесено</b></i> до 4 класу)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція говоріння</td>
+Мовленнєва компетентність говоріння</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг висловлювання 7-8 речень/6-7 реплік  (<i><b>скорочено</b></i> до 5-6 речень/5 реплік)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція читання</td>
+Мовленнєва компетентність читання</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг — 200-300 друкованих знаків  (<i><b>скорочено</b></i>  до 200-250)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція письмо</td>
+Мовленнєва компетентність письмо</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг письмового повідомлення 7-8 речень (<i><b>скорочено</b></i> до 5-6 речень)</td>
   </tr>
@@ -124,25 +124,25 @@ Present Perfect (<i><b>перенесено</b></i> до 4 класу)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція говоріння</td>
+Мовленнєва компетентність говоріння</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг висловлювання 8-9 речень/6-7 реплік  (<i><b>скорочено</b></i> до 6-8 речень/6 реплік</td>
   </tr>
     <tr>
     <td width="50%" style="vertical-align:top !important;">
-Лінгвістична граматична  компетенція</td>
+Лінгвістична Граматична компетенція  компетенція</td>
     <td width="50%" style="vertical-align:top !important;">
 Past Continuous <i><b>(вилучено)</b></i></td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція читання</td>
+Мовленнєва компетентність читання</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг — 350-400 друкованих знаків  (<i><b>скорочено</b></i>  до 250-350)</td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Мовленнєва компетенція письмо</td>
+Мовленнєва компетентність письмо</td>
     <td width="50%" style="vertical-align:top !important;">
 Обсяг письмового повідомлення 8-9 речень  (<i><b>скорочено</b></i> до 6-7 речень)</td>
   </tr>

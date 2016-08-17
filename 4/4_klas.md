@@ -13,63 +13,65 @@
     <td width="10%" style="vertical-align:top !important;">
 <b>Особистісна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Оточення.<br>
-Помешкання.<br>
-Місце проживання.<br>
-Відпочинок і дозвілля.<br>
-Природа  і навколишнє середовище. </td>
+<b>Оточення</b> (моя сім’я та друзі)<br>
+<b>Помешкання</b><br>
+<b>Місце проживання</b><br>
+<b>Відпочинок і дозвілля</b> (покупки у крамниці)v
+<b>Природа  і навколишнє середовище</b> (моє ставлення до тварин і природи)</td>
     <td width="40%" style="vertical-align:top !important;" rowspan="3">
-<ul type="disc">
-<li>робити короткі повідомлення про події та факти;</li>
-<li>розповідати про  прочитане, почуте, побачене;</li>
-<li>запитувати про чиїсь враження, думки, ставлення;</li>
-<li>висловлювати  свої враження, думки, ставлення;</li>
-<li>розповідати про свої враження (від подорожі, свята).</li>
-</ul>
+- робити короткі повідомлення про події та факти;<br>
+- розповідати про  прочитане, почуте, побачене;<br>
+- запитувати про чиїсь враження, думки, ставлення;<br>
+- висловлювати  свої враження, думки, ставлення;<br>
+- розповідати про свої враження (від подорожі, свята);<br>
+- виражати настрій у відповідних мовленнєвих ситуаціях
 </td>
     <td width="60%" style="vertical-align:top !important;" rowspan="3">
 My name is… <br>
 I am a pupil. <br>
 What time is it?<br>
+I read the book yesterday.<br>
 Why did you ….. yesterday?<br>
 What was the weather like?<br>
-I’m going to visit my …..tomorrow.<br>
+I’m going to plant … …..tomorrow.<br>
+Ok. I will help you.  – Thank you. It’s kind of you.<br>
+Are you / they going to…?<br>
+I’ll do it tomorrow. – OK.<br>
 It’s made of …<br>
 I went to the school then I went to the swimming pool.<br>
 Excuse me, how do you get to ………?<br>
-She went to the shops to buy a new dress.<br>
-We went upstairs quietly<br>
+They went to the shops to buy a new dress.<br>
+We went upstairs quietly.<br>
+How …?<br>
+How many …?<br>
+How much …?<br>
 A shop-assistant works in a shop and sells goods<br>
 What`s your favourite food? What do you eat it with?<br>
 I’d like….<br>
-I hate/love/like singing.<br>
-I read the book yesterday.<br>
-I have just read the book.<br>
-When did your read it?<br>
-What have you done?<br>
+I hate/love/like singing.
 </td>
   </tr>
 <tr>
     <td width="10%" style="vertical-align:top !important;">
 <b>Публічна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Подорож. Транспорт.<br>
-Свята і традиції.<br></td>
+<b>Подорож</b> (в аеропорту, на вокзалі) <br>
+<b>Свята і традиції</b></td>
 </tr>
 <tr>
     <td width="10%" style="vertical-align:top !important;">
 <b>Освітня</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Шкільне життя.</td>
+<b>Шкільне життя</b> (шкільні події)</td>
 </tr>
 </table>
 
 <hr>
 <p><b>Зміст розділу:</b></p>
-   * [Лінгвістична компетенція](lyngvystykhna_kompetenzia.md)
-   * [Соціокультурна компетенція](soziokulturna_kompetenzia.md)
-   * [Загальнонавчальна компетенція](zagalnonavchalna_kompetenzya.md)
-   * [Мовленнєва компетенція](na_kynec_4_klasu_uchny_povunny_vmyty.md)
+   * [Лінгвістична компетентність](lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетентність](soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетентність](zagalnonavchalna_kompetenzya.md)
+   * [Мовленнєва компетентність](na_kynec_4_klasu_uchny_povunny_vmyty.md)
        * [Аудіювання](audiyuvannya.md)
        * [Говоріння](govorinnya.md)
        * [Читання](chitannya.md)

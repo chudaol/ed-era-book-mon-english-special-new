@@ -13,70 +13,74 @@
     <td width="10%" style="vertical-align:top !important;">
 <b>Особистісна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Я, моя сім’я, друзі.<br>
-Мій день.<br>
-Мої дії в минулому.<br>
-Моя кімната.<br>
-Відпочинок і дозвілля (хобі).<br>
-Людина. Одяг. Їжа.<br>
-Природа і навколишнє середовище (моє ставлення до навколишнього середовища).<br>
+Я, моя сім’я, друзі<br>
+Людина<br>
+Мій день<br>
+Помешкання<br>
+Відпочинок і дозвілля <br>
+Їжа<br>
+Природа і навколишнє середовище <br>
 </td>
     <td width="40%" style="vertical-align:top !important;" rowspan="3">
-<ul type="disc">
-<li>представляти співрозмовників/ третіх осіб;</li>
-<li>запрошувати інформацію про співрозмовника / третю особу;</li>
-<li>запитувати про відчуття/самопочуття  та відповідати на запитання;</li>
-<li>повідомляти про смаки, уподобання; </li>
-<li>виражати своє ставлення до когось / чогось;</li>
-<li>робити пропозицію та реагувати на неї;</li>
-<li>повідомляти про когось / щось;</li>
-<li>запитувати з метою отримання більш детальної інформації;</li>
-<li>визначати час/ проміжки часу;</li>
-<li>давати поради</li>
-<li>висловлювати схвальну/ несхвальну оцінку предметам, діям, ситуаціям тощо.</li>
-</ul>
+- представляти співрозмовників/ третіх осіб;<br>
+- запрошувати інформацію про співрозмовника / співрозмовницю;<br>
+- запитувати про відчуття/самопочуття  та відповідати на запитання;<br>
+- повідомляти про смаки, уподобання; <br>
+- виражати своє ставлення до когось / чогось;<br>
+- робити пропозицію та реагувати на неї;<br>
+- повідомляти про когось / щось;<br>
+- запитувати з метою отримання більш детальної інформації;<br>
+- визначати час/ проміжки часу;<br>
+- давати поради;<br>
+- висловлювати схвальну/ несхвальну оцінку предметам, діям, ситуаціям тощо;<br>
+- виражати настрій у відповідних мовленнєвих ситуаціях
 </td>
     <td width="60%" style="vertical-align:top !important;" rowspan="3">
 What city/street/do you live in?<br>
 What floor do you live on?<br>
-Do you?<br>
-Does he/she?<br>
-Is this your ? Whose …..is this?<br>
+Do you …?<br>
+Does he/she …?<br>
+Is this your…? Whose …..is this?<br>
 What colour are they?<br>
-Is your family large or small?<br> 
+Is your family large or small? <br>
 Is your … tall or short?<br>
-She went to bed at 10 o’clock.<br>
-When did you go … to the park?<br>
+He/She went to bed at 10 o’clock.<br>
+When did you go…?<br>
 Have you got a…? Yes, I have. <br>
 I’ve got a …  No, I haven’t<br>
 When do you have….?<br>
 I watch TV every day.<br>
-How many…?<br>
+How many   ?<br>
 How much…?<br>
 It is one ten. <br>
 It is five fifteen.<br>
+What …? Who …?<br>
+Where …? <br>
+When …? Why …?<br>
+How…?<br>
 </td>
   </tr>
 <tr>
     <td width="10%" style="vertical-align:top !important;">
 <b>Публічна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Свята та традиції.<br></td>
+Свята та традиції<br></td>
 </tr>
 <tr>
     <td width="10%" style="vertical-align:top !important;">
 <b>Освітня</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Школа (розклад, шкільні предмети).</td>
+Школа (розклад, навчальні предмети; класна кімната)
+</td>
 </tr>
 </table>
 
 <hr>
 <p><b>Зміст розділу:</b></p>
-   * [Лінгвістична компетенція](lyngvystykhna_kompetenzia.md)
-   * [Соціокультурна компетенція](soziokulturna_kompetenzia.md)
-   * [Загальнонавчальна компетенція](zagalnonavchalna_kompetenzya.md)
-   * [Мовленнєва компетенція](na_kynec_3_klasu_uchny_povunny_vmyty.md)
+   * [Лінгвістична компетентність](lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетентність](soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетентність](zagalnonavchalna_kompetenzya.md)
+   * [Мовленнєва компетентність](na_kynec_3_klasu_uchny_povunny_vmyty.md)
        * [Аудіювання](audiyuvannya.md)
        * [Говоріння](govorinnya.md)
        * [Читання](chitannya.md)

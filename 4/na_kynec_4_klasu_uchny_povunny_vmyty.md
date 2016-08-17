@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Мовленнєва компетенція
+# Мовленнєва компетентність
 ## На кінець 4-го класу
 
 <p><b>Зміст розділу:</b></p>
